@@ -60,7 +60,7 @@ PhishGuard/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/phishguard.git
+   git clone https://github.com/Ritik-Malviya/CodeCrew_Phishguard_INNOTHON2.0
    cd phishguard
    ```
 
